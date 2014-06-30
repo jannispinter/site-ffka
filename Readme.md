@@ -16,5 +16,6 @@ Pull requests solving the issues are welcome.
 * [site-ffhl](https://github.com/freifunk-gluon/site-ffhl) (Lübeck)
 * [site-ffmd](https://github.com/FreifunkMD/site-ffmd) (Magdeburg)
 * [site-ffmz](https://github.com/Freifunk-Mainz/site-ffmz) (Mainz)
+* [site-ffm](https://github.com/freifunkMUC/site-ffm) (München)
 * [siteconf-ffol](https://ticket.freifunk-ol.de/projects/siteconf-ffol/repository) (Oldenburg)
 * [site-ffpb](https://git.c3pb.de/freifunk-pb/site-ffpb) (Paderborn)
