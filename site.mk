@@ -3,6 +3,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
+	gluon-config-mode-core \
         gluon-config-mode-autoupdater \
         gluon-config-mode-hostname \
         gluon-config-mode-mesh-vpn \
@@ -18,6 +19,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
 	gluon-status-page \
+	gluon-setup-mode \
 	iwinfo \
 	iptables \
 	haveged
